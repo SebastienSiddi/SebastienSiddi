@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/shamimsikder"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=34b4eb&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Sébastien+Siddi;A+DevOps+Developer;" alt="Typing SVG" /></a></p>
+![Header](./[github-header-image.png])
 
 ----
 ### 📉 &nbsp;About me
