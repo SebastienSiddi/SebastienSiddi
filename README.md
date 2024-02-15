@@ -44,7 +44,7 @@
   </div>
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex;">
   <div style="margin-right: 3px;">
     <a href="https://github.com/SebastienSiddi/SelfieAWookie.API.UI">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=SelfieAWookie.API.UI&theme=react" />
