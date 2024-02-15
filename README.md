@@ -34,7 +34,7 @@
 <div style="display: flex; justify-content: center;">
   <div style="margin-right: 3px;">
     <a href="https://github.com/SebastienSiddi/mrbeat">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=mrbeat&theme=react" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=mrbeat&theme=react&card_width=400" />
     </a>
   </div>
   <div style="margin-left: 3px;">
@@ -44,7 +44,7 @@
   </div>
 </div>
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center;">
   <div style="margin-right: 3px;">
     <a href="https://github.com/SebastienSiddi/SelfieAWookie.API.UI">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=SelfieAWookie.API.UI&theme=react" />
