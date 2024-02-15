@@ -3,6 +3,15 @@
 ----
 ### ➡️ &nbsp;About Me
 
+<p>
+    <strong>
+            Invested in creating high-performing technological ecosystems, my philosophy is built on collaboration, communication, and knowledge sharing.<br><br>
+            I am driven by a passion for continuous learning, exploring .NET, back-end technologies, software and web development, cloud computing, DevOps, Object-Oriented Programming, Design Patterns, and Problem Solving skills.
+            <br><br>
+            My unconventional professional journey reflects my determination to constantly broaden my skill set and to remain attentive and open to technological advancements.
+    </strong>
+</p>
+
 ----
 ### 📉 &nbsp;GitHub Analytics
 
@@ -94,7 +103,7 @@
 </div>
 
 ----
-### 🌐 &nbsp;Connect with Me
+### 🌐 &nbsp;Contact
 
 <br/>
 <div style="display: flex; justify-content: center; align-items: center;">
