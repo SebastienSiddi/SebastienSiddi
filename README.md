@@ -87,7 +87,7 @@
 ### 🌐 &nbsp;Connect with Me
 
 <br/>
-<div style="display: flex; justify-content: center;">
+<div align="center">
      <div style="max-width: 200px; margin-right: 10px;">
          <a href="https://linkedin.com/in/sebastiensiddi">
              <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" width="100" height="26"/>
