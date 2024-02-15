@@ -31,46 +31,30 @@
 ----
 ### 📚 &nbsp;Repositories
 
-<div style="display: flex; justify-content: center;">
-  <div style="margin-right: 3px;">
+<p align="center">
     <a href="https://github.com/SebastienSiddi/mrbeat">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=mrbeat&theme=react&card_width=400" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=mrbeat&theme=react" />
     </a>
-  </div>
-  <div style="margin-left: 3px;">
     <a href="https://github.com/SebastienSiddi/Pizza_mama_.NetCore">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=Pizza_mama_.NetCore&theme=react" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=Pizza_mama_.NetCore&theme=react" />
     </a>
-  </div>
-</div>
-
-<div style="display: flex; justify-content: center;">
-  <div style="margin-right: 3px;">
+</p>
+<p align="center">
     <a href="https://github.com/SebastienSiddi/SelfieAWookie.API.UI">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=SelfieAWookie.API.UI&theme=react" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=SelfieAWookie.API.UI&theme=react" />
     </a>
-  </div>
-  <div style="margin-left: 3px;">
     <a href="https://github.com/SebastienSiddi/Student_List">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=Student_List&theme=react" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=Student_List&theme=react" />
     </a>
-  </div>
-</div>
-
-<div style="display: flex; justify-content: center;">
-  <div style="margin-right: 3px;">
+</p>
+<p align="center">
     <a href="https://github.com/SebastienSiddi/SysMaven">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=SysMaven&theme=react" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=SysMaven&theme=react" />
     </a>
-  </div>
-  <div style="margin-left: 3px;">
     <a href="https://github.com/SebastienSiddi/PC-Cleaner">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=PC-Cleaner&theme=react" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=PC-Cleaner&theme=react" />
     </a>
-  </div>
-</div>
-
-
+</p>
 
 ----
 ### 🛠️ &nbsp;Skills
