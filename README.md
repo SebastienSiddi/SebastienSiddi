@@ -84,10 +84,20 @@
 <br>
 
 ----
+### 🏆 &nbsp;Certifications
+
+<br/>
+<div style="display: flex; justify-content: center;">
+    <img src="aws.png" width="120" height="120"/>
+    <img src="DevOpsFoundation.png" width="130" height="130"/>
+    <img src="rncp.png" width="120" height="120"/>
+</div>
+
+----
 ### 🌐 &nbsp;Connect with Me
 
 <br/>
-<div align="center">
+<div style="display: flex; justify-content: center;">
      <div style="max-width: 200px; margin-right: 10px;">
          <a href="https://linkedin.com/in/sebastiensiddi">
              <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" width="100" height="26"/>
