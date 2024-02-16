@@ -32,8 +32,8 @@
 ### 📚 &nbsp;Repositories
 
 <p align="center">
-    <a href="https://github.com/SebastienSiddi/mrbeat">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=mrbeat&theme=react" />
+    <a href="https://github.com/SebastienSiddi/kubernetes-microservices">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=kubernetes-microservices&theme=react" />
     </a>
     <a href="https://github.com/SebastienSiddi/Pizza_mama_.NetCore">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=SebastienSiddi&repo=Pizza_mama_.NetCore&theme=react" />
